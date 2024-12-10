@@ -25,8 +25,8 @@ The goal is to analyze and count the occurrences of a target word in the text of
 >A text input field for entering the target word.
 >Feedback messages to guide users (e.g., word count results, warnings for missing input).
 
-##The UI :
+## The UI :
 ![image](https://github.com/Kriz-Griffin/Bible_Text_Extraction/blob/9d782a9de1a79a1a26971eb8cd5e30026c5e9eb8/images/Screenshot%202024-12-10%20123520.png)
 
-##Output
+## Output
 ![image](https://github.com/Kriz-Griffin/Bible_Text_Extraction/blob/9d782a9de1a79a1a26971eb8cd5e30026c5e9eb8/images/Screenshot%202024-12-10%20123607.png)
